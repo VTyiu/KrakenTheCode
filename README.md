@@ -1,4 +1,4 @@
-# KrakenTheCode
+# Kraken the Code
 Collaborative with artist Krajna Alcantara (ig: @slice.o.onione), a top down dungeon game created with Unity.  Early stages and was only able to make a limited number of levels.
 Game is playable on itch.io in-browser: https://vtyiu.itch.io/kraken-the-code-final
 
@@ -16,6 +16,7 @@ Successful points:
 - Player is able to press space to open cabinets
 - When all collectibles are collected, the exit doors to the room open
 - Very cool enemies: three different types of enemies - ones that are stationary and blink, ones that have their eyes closed, opens when player gets to a certain distance from it, and then the enemy starts chasing the player, and ones that are stationary, blink, and shoot an ink sac at the player
+- Name of the game is a pun haha
 
 Aspects that can be improved:
 - Change the main character's model to be shorter and more fit for dungeon crawler style games
