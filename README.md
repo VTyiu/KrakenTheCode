@@ -1,6 +1,6 @@
 # KrakenTheCode
-Collaborative with artist Krajna Alcantara, a top down dungeon game created with Unity.  Early stages and was only able to make a limited number of levels.
-Game is playable on itch.io in browser: https://vtyiu.itch.io/kraken-the-code-final
+Collaborative with artist Krajna Alcantara (ig: @slice.o.onione), a top down dungeon game created with Unity.  Early stages and was only able to make a limited number of levels.
+Game is playable on itch.io in-browser: https://vtyiu.itch.io/kraken-the-code-final
 
 Game inspired by Binding of Isaac.
 
@@ -10,13 +10,12 @@ The game also has a false sense of choice - there are different exits to the nex
 Successful points:
 - Character movement is very responsive to the direction keys that the player uses, including diagonals
 - Collectibles disappear and add to the counter once the character makes contact with it
-- Obstacles stop the player from moving while keeping the perspective of the game in mind [insert picture example of collision boxes]
+- Obstacles stop the player from moving while keeping the perspective of the game in mind
 - Start, Death, and Ending screen - successful game loop
-- Successfully implemented sound effects - background music, collecting objects, character getting damaged
+- Successfully implemented sound effects - background music, collecting objects, character getting damaged, cabinets opening
 - Player is able to press space to open cabinets
 - When all collectibles are collected, the exit doors to the room open
-- Very cool enemies: three different types of enemies - ones that are stationary and blink, ones that have their eyes closed, opens when player gets to a certain distance from it, and then the enemy will start chasing the player, and ones that are stationary, blink, and shoot an ink sac at the player
-- 
+- Very cool enemies: three different types of enemies - ones that are stationary and blink, ones that have their eyes closed, opens when player gets to a certain distance from it, and then the enemy starts chasing the player, and ones that are stationary, blink, and shoot an ink sac at the player
 
 Aspects that can be improved:
 - Change the main character's model to be shorter and more fit for dungeon crawler style games
