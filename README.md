@@ -1,5 +1,5 @@
 # Kraken the Code
-Collaborative with artist Krajna Alcantara (ig: @slice.o.onione), a top down dungeon game created with Unity.  Early stages and was only able to make a limited number of levels.
+Collaborative with artist Krajna Alcantara (ig: @slice.o.onione), a top down dungeon game created with Unity.  Code is in C++.  Early stages and was only able to make a limited number of levels.
 Game is playable on itch.io in-browser: https://vtyiu.itch.io/kraken-the-code-final
 
 Game inspired by Binding of Isaac.
